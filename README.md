@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack Jr`**
 
-🎓 Formado em Gestão de Tecnologia da Informação, estou atualmente participando de um Bootcamp de Desenvolvimento FullStack Jr, aprofundando meus conhecimentos em Node.js, TypeScript, NestJS, ReactJS, SQL, MySQL, HTML, CSS e Git/GitHub.
+🎓 Formado em Gestão de Tecnologia da Informação, estou atualmente participando de um Bootcamp de Desenvolvimento FullStack Jr, aprofundando meus conhecimentos em JavaScript, TypeScript, NestJS, ReactJS, Node.js, SQL, MySQL, HTML, CSS e Git/GitHub.
 
 Sou uma pessoa movida por curiosidade, disciplina e vontade constante de aprender. Acredito que evolução vem da prática diária, por isso estou sempre construindo projetos, estudando novas ferramentas e buscando entender a fundo como cada tecnologia funciona.
 
