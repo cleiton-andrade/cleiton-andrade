@@ -94,3 +94,14 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor FullSt
 
 <br/>
 <br/>
+
+
+_________________________
+
+<br>
+</br>
+
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cleiton-andrade&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
