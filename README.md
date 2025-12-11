@@ -2,6 +2,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
 **`Desenvolvedor FullStack Jr`**
 
 🎓 Formado em Gestão de Tecnologia da Informação, estou atualmente participando de um Bootcamp de Desenvolvimento FullStack Jr, aprofundando meus conhecimentos em JavaScript, TypeScript, NestJS, ReactJS, Node.js, SQL, MySQL, HTML, CSS e Git/GitHub.
